@@ -1,5 +1,5 @@
 function sim() {
-    alert("Você aceitou sair comigo, bora marcar logo po, e abre o video no youtube pfvr pq deu trabalho esse codigo!!")
+    alert("Você aceitou sair comigo, bora marcar logo po, e abre o link do youtube pfvr pq deu trabalho esse codigo!!")
     location.href = "https://www.youtube.com/watch?v=785bHsX_O-A";
 }
 
